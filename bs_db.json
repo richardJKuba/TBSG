@@ -1,0 +1,47 @@
+{
+    "manager": {
+        "management_meeting": [
+            "I think this is not transparent enough",
+            "It would be better to discuss it offline",
+            "Why don't we setup a workshop to dive deeper in this topic",
+            "I would appreciate to first read the docs and then debate it again",
+            "It could utilize the synergies better",
+            "The expected outcome could be better defined",
+            "The conditions could be set more precisely",
+            "We should go for a win-win situation",
+            "We should harmonize it to the company core values",
+            "Is the documentation already available?",
+            "We should establish a central working group for this topic",
+            "Is it sure that all the relevant stakeholder are already aware of the situation?",
+            "The availability of the docmentation still has some room for improvement",
+            "Is RASIC is already available?",
+            "We should define the RASIC for this process",
+            "We should include it to the process landscape",
+            "Who is responsible for the process?",
+            "We need the common understanding about the situation"
+        ],
+        "quality_meeting": [
+            "Can you show me again the problem description?",
+            "Do you think that the description of the problem fulfills the requirements of proper problem solving process?",
+            "The problem description is not transparent enough for me",
+            "Have the supplier already started the 8D process?",
+            "We should schedule a separate call to rewrite the problem description",
+            "First I would rather go through on the available documentation of the issue before we go forward with the discussions",
+            "Could you give me access to the project folder?"
+        ]
+    },
+    "quality_professional": {
+        "supplier_meeting": [
+            "Can you show me the process description",
+            "Is the issue database already established?",
+            "Does it fullfils all the CE requirements?",
+            "Can you send me the documentation?",
+            "We should have the common understanding about quality control",
+            "We should discuss it offline",
+            "Would make sense to include this topic into the agenda of the steering comittee"
+        ],
+        "taksforce_meeting": [
+            "Can you show me in the RASIC who is responsible for the process step?"
+        ]
+    }
+}
