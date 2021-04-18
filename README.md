@@ -1,5 +1,3 @@
-[TBSG] (https://github.com/richardJKuba/TBSG/blob/main/TBSG.png)
-
 
 # TBSG
 The management communication advisor that is going to boost up your career.
