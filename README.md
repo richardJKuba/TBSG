@@ -1,6 +1,8 @@
+[TBSG] (https://github.com/richardJKuba/TBSG/blob/main/TBSG.png)
+
 
 # TBSG
-the management communication advisor
+The management communication advisor that is going to boost up your career.
 
 # Description
 Have you ever participated on a meeting or a call in a corporate environment that doesn't make any sense and you probably didn't really listerned to the discussion and suddenly somebody asked about your opinion and you didn't know what to say?
